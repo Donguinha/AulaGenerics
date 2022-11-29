@@ -1,0 +1,15 @@
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\bin\Debug\net6.0\CompararMaiorGenerics.exe
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\bin\Debug\net6.0\CompararMaiorGenerics.deps.json
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\bin\Debug\net6.0\CompararMaiorGenerics.runtimeconfig.json
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\bin\Debug\net6.0\CompararMaiorGenerics.dll
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\bin\Debug\net6.0\CompararMaiorGenerics.pdb
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.csproj.AssemblyReference.cache
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.AssemblyInfoInputs.cache
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.AssemblyInfo.cs
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.csproj.CoreCompileInputs.cache
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.dll
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\refint\CompararMaiorGenerics.dll
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.pdb
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\CompararMaiorGenerics.genruntimeconfig.cache
+C:\code\CompararMaiorGenerics\CompararMaiorGenerics\obj\Debug\net6.0\ref\CompararMaiorGenerics.dll
